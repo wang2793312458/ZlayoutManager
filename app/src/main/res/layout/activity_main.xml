@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zlayoutmanager.MainActivity">
+    <Button
+        android:id="@+id/btnSwipeCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="人人影视订阅界面"/>
+
+    <Button
+        android:id="@+id/btnKing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="探探界面（皇上翻牌子）"/>
+</LinearLayout>
